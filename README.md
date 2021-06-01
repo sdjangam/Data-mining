@@ -16,7 +16,7 @@ In this module, I will cover basic methods for pattern mining like Apriori and F
 
 # Frequent Pattern Mining and Association Rules
 
-What is frequent pattern mining? What are the applications?
+What is frequent patterns mining? What are the applications?
 
 Understanding frequent patterns, association rules, support and confidence
 
