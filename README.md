@@ -5,7 +5,7 @@
 
 The area of Data Mining specifically deals with topics like pattern mining, OLAP, data cubes, and outlier detection. Frequent pattern mining deals with mining frequent subsets, subsequences or subgraphs from transactional, sequence or graph datasets respectively. These are very useful for Basket data analysis, cross-marketing, catalog design, sale campaign analysis, Web log (click stream) analysis, and DNA sequence analysis. OLAP enables users to quickly analyze information that has been summarized into multidimensional views and hierarchies. By summarizing predicted queries into multidimensional views prior to run time, OLAP tools provide the benefit of increased performance over traditional database access tools. Outlier analysis has numerous applications in a wide variety of domains such as the financial industry, quality control, fault diagnosis, intrusion detection, web analytics, and medical diagnosis.
 
-In this modules, I will cover basic methods for pattern mining like Apriori and FP growth. I will also cover basic concepts in OLAP and in outlier detection.
+In this module, I will cover basic methods for pattern mining like Apriori and FP growth. I will also cover basic concepts in OLAP and in outlier detection.
 
 
 ![image](https://user-images.githubusercontent.com/67232573/113886301-6bc56b00-9775-11eb-8791-eda55cebe4a5.png)
